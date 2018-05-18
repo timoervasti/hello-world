@@ -7,7 +7,7 @@ public class Test {
         this.epicMessage = epicMessage;
     }
     
-    public void LeakSecret() {
+    public void leakSecret() {
         System.out.Println(this.epicMessage);
     }
     
